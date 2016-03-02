@@ -15,6 +15,8 @@ public class Orchestra {
     
     List<IInstrument> instruments = new LinkedList<>();
     
+    // Constructeur par défaut invoqué
+    
     public int getNumberOfInstruments() {
         return instruments.size();
     }
