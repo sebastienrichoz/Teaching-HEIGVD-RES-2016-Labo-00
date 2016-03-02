@@ -6,7 +6,7 @@ package ch.heigvd.res.lab00;
  */
 public class Flute implements IInstrument {
     public String play() {
-        return "fufufu";
+        return "trilili";
     }
     public String getColor() {
         return "white";
